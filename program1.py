@@ -13,11 +13,3 @@ plt.ylabel('Score in final exam')
 plt.title("Effect of hours studied on exam scores")
 plt.show()
 
-
-# In[ ]:
-
-
-import pandas as pd
-import matplotlib.pyplot as plt
-mtcars=pd
-
